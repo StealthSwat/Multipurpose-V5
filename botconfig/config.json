@@ -1,28 +1,28 @@
 {
-   "prefix": "",
+   "prefix": ";",
    "ownerIDS": [
-      ""
+      "1284596427883810897"
    ],
    "bannermusic": "",
-   "memer_api": "",
+   "memer_api": "BocPQoK08R2",
    "status": {
-      "text": "",
-      "text2": "",
+      "text": "/ctm",
+      "text2": "/ctm",
       "type": "STREAMING",
       "url": "https://twitch.tv/#"
    },
    "clientsettings": {
       "nodes": [
          {
-            "host": "",
-            "port": 80, 
-            "password": ""
+            "host": "nodepanel.incolnx.com",
+            "port": 1101, 
+            "password": "trazhub"
          }
       ]
    },
    "spotify": {
-      "clientSecret": "",
-      "clientID": ""
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
    },
    "settings": {
       "leaveOnEmpty_Channel": {
